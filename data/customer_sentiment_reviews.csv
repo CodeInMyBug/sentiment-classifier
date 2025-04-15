@@ -1,0 +1,501 @@
+customer_id,text,sentiment
+CUST0000,Loved the experience!,positive
+CUST0001,It was okay.,neutral
+CUST0002,It was okay.,neutral
+CUST0003,Would not recommend at all.,negative
+CUST0004,Very satisfied with the service.,positive
+CUST0005,Quick response and friendly staff.,positive
+CUST0006,Very satisfied with the service.,positive
+CUST0007,Neither good nor bad.,neutral
+CUST0008,Would not recommend at all.,negative
+CUST0009,Nothing special.,neutral
+CUST0010,Quick response and friendly staff.,positive
+CUST0011,Average service.,neutral
+CUST0012,Nothing special.,neutral
+CUST0013,Quick response and friendly staff.,positive
+CUST0014,Loved the experience!,positive
+CUST0015,Great support and features.,positive
+CUST0016,Great support and features.,positive
+CUST0017,Very slow and frustrating.,negative
+CUST0018,Unhelpful staff.,negative
+CUST0019,Quick response and friendly staff.,positive
+CUST0020,Would not recommend at all.,negative
+CUST0021,Loved the experience!,positive
+CUST0022,Loved the experience!,positive
+CUST0023,Great support and features.,positive
+CUST0024,Terrible experience.,negative
+CUST0025,Nothing special.,neutral
+CUST0026,Quick response and friendly staff.,positive
+CUST0027,Very slow and frustrating.,negative
+CUST0028,Terrible experience.,negative
+CUST0029,Everything worked smoothly.,positive
+CUST0030,Unhelpful staff.,negative
+CUST0031,Loved the experience!,positive
+CUST0032,Quick response and friendly staff.,positive
+CUST0033,It was okay.,neutral
+CUST0034,Average service.,neutral
+CUST0035,It was okay.,neutral
+CUST0036,Everything worked smoothly.,positive
+CUST0037,Loved the experience!,positive
+CUST0038,Would not recommend at all.,negative
+CUST0039,System crashes often.,negative
+CUST0040,Loved the experience!,positive
+CUST0041,Would not recommend at all.,negative
+CUST0042,Quick response and friendly staff.,positive
+CUST0043,Nothing special.,neutral
+CUST0044,Quick response and friendly staff.,positive
+CUST0045,Would not recommend at all.,negative
+CUST0046,Quick response and friendly staff.,positive
+CUST0047,Would not recommend at all.,negative
+CUST0048,Very slow and frustrating.,negative
+CUST0049,Great support and features.,positive
+CUST0050,Nothing special.,neutral
+CUST0051,It was okay.,neutral
+CUST0052,Neither good nor bad.,neutral
+CUST0053,It was okay.,neutral
+CUST0054,Terrible experience.,negative
+CUST0055,Nothing special.,neutral
+CUST0056,Quick response and friendly staff.,positive
+CUST0057,Quick response and friendly staff.,positive
+CUST0058,Very satisfied with the service.,positive
+CUST0059,Loved the experience!,positive
+CUST0060,Loved the experience!,positive
+CUST0061,Great support and features.,positive
+CUST0062,Just fine.,neutral
+CUST0063,Great support and features.,positive
+CUST0064,Great support and features.,positive
+CUST0065,Very slow and frustrating.,negative
+CUST0066,Everything worked smoothly.,positive
+CUST0067,Nothing special.,neutral
+CUST0068,Great support and features.,positive
+CUST0069,Just fine.,neutral
+CUST0070,It was okay.,neutral
+CUST0071,Very satisfied with the service.,positive
+CUST0072,Quick response and friendly staff.,positive
+CUST0073,Nothing special.,neutral
+CUST0074,It was okay.,neutral
+CUST0075,It was okay.,neutral
+CUST0076,Neither good nor bad.,neutral
+CUST0077,Quick response and friendly staff.,positive
+CUST0078,Great support and features.,positive
+CUST0079,Everything worked smoothly.,positive
+CUST0080,Nothing special.,neutral
+CUST0081,System crashes often.,negative
+CUST0082,Great support and features.,positive
+CUST0083,Great support and features.,positive
+CUST0084,Great support and features.,positive
+CUST0085,Great support and features.,positive
+CUST0086,Nothing special.,neutral
+CUST0087,Unhelpful staff.,negative
+CUST0088,Average service.,neutral
+CUST0089,System crashes often.,negative
+CUST0090,Loved the experience!,positive
+CUST0091,It was okay.,neutral
+CUST0092,Just fine.,neutral
+CUST0093,Very slow and frustrating.,negative
+CUST0094,Nothing special.,neutral
+CUST0095,Terrible experience.,negative
+CUST0096,Would not recommend at all.,negative
+CUST0097,Would not recommend at all.,negative
+CUST0098,Very satisfied with the service.,positive
+CUST0099,Great support and features.,positive
+CUST0100,Loved the experience!,positive
+CUST0101,Very slow and frustrating.,negative
+CUST0102,Loved the experience!,positive
+CUST0103,System crashes often.,negative
+CUST0104,Just fine.,neutral
+CUST0105,Quick response and friendly staff.,positive
+CUST0106,Very slow and frustrating.,negative
+CUST0107,Neither good nor bad.,neutral
+CUST0108,Great support and features.,positive
+CUST0109,Quick response and friendly staff.,positive
+CUST0110,Everything worked smoothly.,positive
+CUST0111,Everything worked smoothly.,positive
+CUST0112,Nothing special.,neutral
+CUST0113,Nothing special.,neutral
+CUST0114,Terrible experience.,negative
+CUST0115,Nothing special.,neutral
+CUST0116,Just fine.,neutral
+CUST0117,Very satisfied with the service.,positive
+CUST0118,It was okay.,neutral
+CUST0119,Unhelpful staff.,negative
+CUST0120,Nothing special.,neutral
+CUST0121,Nothing special.,neutral
+CUST0122,Quick response and friendly staff.,positive
+CUST0123,Great support and features.,positive
+CUST0124,Quick response and friendly staff.,positive
+CUST0125,Very slow and frustrating.,negative
+CUST0126,Nothing special.,neutral
+CUST0127,Nothing special.,neutral
+CUST0128,Quick response and friendly staff.,positive
+CUST0129,Would not recommend at all.,negative
+CUST0130,Very slow and frustrating.,negative
+CUST0131,Very satisfied with the service.,positive
+CUST0132,Great support and features.,positive
+CUST0133,Quick response and friendly staff.,positive
+CUST0134,Neither good nor bad.,neutral
+CUST0135,Loved the experience!,positive
+CUST0136,Would not recommend at all.,negative
+CUST0137,It was okay.,neutral
+CUST0138,Very satisfied with the service.,positive
+CUST0139,Average service.,neutral
+CUST0140,Average service.,neutral
+CUST0141,Loved the experience!,positive
+CUST0142,Very slow and frustrating.,negative
+CUST0143,Quick response and friendly staff.,positive
+CUST0144,Everything worked smoothly.,positive
+CUST0145,Loved the experience!,positive
+CUST0146,Very slow and frustrating.,negative
+CUST0147,Terrible experience.,negative
+CUST0148,Loved the experience!,positive
+CUST0149,Everything worked smoothly.,positive
+CUST0150,Neither good nor bad.,neutral
+CUST0151,Loved the experience!,positive
+CUST0152,Great support and features.,positive
+CUST0153,System crashes often.,negative
+CUST0154,It was okay.,neutral
+CUST0155,Loved the experience!,positive
+CUST0156,Unhelpful staff.,negative
+CUST0157,Neither good nor bad.,neutral
+CUST0158,Very satisfied with the service.,positive
+CUST0159,Average service.,neutral
+CUST0160,Very satisfied with the service.,positive
+CUST0161,Very slow and frustrating.,negative
+CUST0162,Would not recommend at all.,negative
+CUST0163,Very slow and frustrating.,negative
+CUST0164,Everything worked smoothly.,positive
+CUST0165,Nothing special.,neutral
+CUST0166,Everything worked smoothly.,positive
+CUST0167,Everything worked smoothly.,positive
+CUST0168,Very satisfied with the service.,positive
+CUST0169,Would not recommend at all.,negative
+CUST0170,Very slow and frustrating.,negative
+CUST0171,Great support and features.,positive
+CUST0172,Unhelpful staff.,negative
+CUST0173,Everything worked smoothly.,positive
+CUST0174,Terrible experience.,negative
+CUST0175,Quick response and friendly staff.,positive
+CUST0176,System crashes often.,negative
+CUST0177,Great support and features.,positive
+CUST0178,It was okay.,neutral
+CUST0179,Loved the experience!,positive
+CUST0180,Great support and features.,positive
+CUST0181,Very satisfied with the service.,positive
+CUST0182,It was okay.,neutral
+CUST0183,It was okay.,neutral
+CUST0184,Quick response and friendly staff.,positive
+CUST0185,System crashes often.,negative
+CUST0186,It was okay.,neutral
+CUST0187,System crashes often.,negative
+CUST0188,Very slow and frustrating.,negative
+CUST0189,Everything worked smoothly.,positive
+CUST0190,Loved the experience!,positive
+CUST0191,Neither good nor bad.,neutral
+CUST0192,Average service.,neutral
+CUST0193,System crashes often.,negative
+CUST0194,Great support and features.,positive
+CUST0195,Loved the experience!,positive
+CUST0196,Just fine.,neutral
+CUST0197,Nothing special.,neutral
+CUST0198,Average service.,neutral
+CUST0199,It was okay.,neutral
+CUST0200,Would not recommend at all.,negative
+CUST0201,Very satisfied with the service.,positive
+CUST0202,Great support and features.,positive
+CUST0203,Average service.,neutral
+CUST0204,Unhelpful staff.,negative
+CUST0205,Everything worked smoothly.,positive
+CUST0206,Quick response and friendly staff.,positive
+CUST0207,Would not recommend at all.,negative
+CUST0208,Loved the experience!,positive
+CUST0209,Loved the experience!,positive
+CUST0210,Would not recommend at all.,negative
+CUST0211,Would not recommend at all.,negative
+CUST0212,System crashes often.,negative
+CUST0213,Everything worked smoothly.,positive
+CUST0214,It was okay.,neutral
+CUST0215,Everything worked smoothly.,positive
+CUST0216,Everything worked smoothly.,positive
+CUST0217,Neither good nor bad.,neutral
+CUST0218,System crashes often.,negative
+CUST0219,Average service.,neutral
+CUST0220,System crashes often.,negative
+CUST0221,System crashes often.,negative
+CUST0222,Everything worked smoothly.,positive
+CUST0223,Very satisfied with the service.,positive
+CUST0224,Loved the experience!,positive
+CUST0225,Everything worked smoothly.,positive
+CUST0226,It was okay.,neutral
+CUST0227,Great support and features.,positive
+CUST0228,Nothing special.,neutral
+CUST0229,Very slow and frustrating.,negative
+CUST0230,Nothing special.,neutral
+CUST0231,Would not recommend at all.,negative
+CUST0232,System crashes often.,negative
+CUST0233,Would not recommend at all.,negative
+CUST0234,Great support and features.,positive
+CUST0235,Just fine.,neutral
+CUST0236,Everything worked smoothly.,positive
+CUST0237,Very satisfied with the service.,positive
+CUST0238,Terrible experience.,negative
+CUST0239,Very satisfied with the service.,positive
+CUST0240,It was okay.,neutral
+CUST0241,Just fine.,neutral
+CUST0242,It was okay.,neutral
+CUST0243,Great support and features.,positive
+CUST0244,Quick response and friendly staff.,positive
+CUST0245,Nothing special.,neutral
+CUST0246,System crashes often.,negative
+CUST0247,Neither good nor bad.,neutral
+CUST0248,Nothing special.,neutral
+CUST0249,Nothing special.,neutral
+CUST0250,Loved the experience!,positive
+CUST0251,Great support and features.,positive
+CUST0252,Average service.,neutral
+CUST0253,Quick response and friendly staff.,positive
+CUST0254,Great support and features.,positive
+CUST0255,System crashes often.,negative
+CUST0256,Average service.,neutral
+CUST0257,Would not recommend at all.,negative
+CUST0258,Very slow and frustrating.,negative
+CUST0259,Very satisfied with the service.,positive
+CUST0260,Terrible experience.,negative
+CUST0261,Neither good nor bad.,neutral
+CUST0262,Loved the experience!,positive
+CUST0263,Terrible experience.,negative
+CUST0264,It was okay.,neutral
+CUST0265,Nothing special.,neutral
+CUST0266,Unhelpful staff.,negative
+CUST0267,It was okay.,neutral
+CUST0268,Quick response and friendly staff.,positive
+CUST0269,Very satisfied with the service.,positive
+CUST0270,Just fine.,neutral
+CUST0271,Average service.,neutral
+CUST0272,Neither good nor bad.,neutral
+CUST0273,Nothing special.,neutral
+CUST0274,Terrible experience.,negative
+CUST0275,Very slow and frustrating.,negative
+CUST0276,Just fine.,neutral
+CUST0277,Unhelpful staff.,negative
+CUST0278,Nothing special.,neutral
+CUST0279,It was okay.,neutral
+CUST0280,Just fine.,neutral
+CUST0281,Quick response and friendly staff.,positive
+CUST0282,Everything worked smoothly.,positive
+CUST0283,Loved the experience!,positive
+CUST0284,Would not recommend at all.,negative
+CUST0285,Very satisfied with the service.,positive
+CUST0286,Unhelpful staff.,negative
+CUST0287,Would not recommend at all.,negative
+CUST0288,Quick response and friendly staff.,positive
+CUST0289,Would not recommend at all.,negative
+CUST0290,Everything worked smoothly.,positive
+CUST0291,Everything worked smoothly.,positive
+CUST0292,Average service.,neutral
+CUST0293,Very satisfied with the service.,positive
+CUST0294,Loved the experience!,positive
+CUST0295,Would not recommend at all.,negative
+CUST0296,Average service.,neutral
+CUST0297,Loved the experience!,positive
+CUST0298,Very slow and frustrating.,negative
+CUST0299,Everything worked smoothly.,positive
+CUST0300,Quick response and friendly staff.,positive
+CUST0301,Terrible experience.,negative
+CUST0302,Terrible experience.,negative
+CUST0303,Terrible experience.,negative
+CUST0304,It was okay.,neutral
+CUST0305,It was okay.,neutral
+CUST0306,Very slow and frustrating.,negative
+CUST0307,Quick response and friendly staff.,positive
+CUST0308,Nothing special.,neutral
+CUST0309,Everything worked smoothly.,positive
+CUST0310,Unhelpful staff.,negative
+CUST0311,Everything worked smoothly.,positive
+CUST0312,Great support and features.,positive
+CUST0313,Just fine.,neutral
+CUST0314,Neither good nor bad.,neutral
+CUST0315,Terrible experience.,negative
+CUST0316,System crashes often.,negative
+CUST0317,Everything worked smoothly.,positive
+CUST0318,Very satisfied with the service.,positive
+CUST0319,Quick response and friendly staff.,positive
+CUST0320,Terrible experience.,negative
+CUST0321,It was okay.,neutral
+CUST0322,Would not recommend at all.,negative
+CUST0323,Quick response and friendly staff.,positive
+CUST0324,Nothing special.,neutral
+CUST0325,It was okay.,neutral
+CUST0326,System crashes often.,negative
+CUST0327,Very slow and frustrating.,negative
+CUST0328,Very slow and frustrating.,negative
+CUST0329,Quick response and friendly staff.,positive
+CUST0330,Everything worked smoothly.,positive
+CUST0331,Average service.,neutral
+CUST0332,Loved the experience!,positive
+CUST0333,Quick response and friendly staff.,positive
+CUST0334,Very satisfied with the service.,positive
+CUST0335,Quick response and friendly staff.,positive
+CUST0336,Just fine.,neutral
+CUST0337,Neither good nor bad.,neutral
+CUST0338,Would not recommend at all.,negative
+CUST0339,Quick response and friendly staff.,positive
+CUST0340,System crashes often.,negative
+CUST0341,System crashes often.,negative
+CUST0342,Quick response and friendly staff.,positive
+CUST0343,Very slow and frustrating.,negative
+CUST0344,Everything worked smoothly.,positive
+CUST0345,Unhelpful staff.,negative
+CUST0346,Unhelpful staff.,negative
+CUST0347,Very satisfied with the service.,positive
+CUST0348,Very satisfied with the service.,positive
+CUST0349,Very slow and frustrating.,negative
+CUST0350,Unhelpful staff.,negative
+CUST0351,Nothing special.,neutral
+CUST0352,Would not recommend at all.,negative
+CUST0353,Very satisfied with the service.,positive
+CUST0354,Everything worked smoothly.,positive
+CUST0355,Very slow and frustrating.,negative
+CUST0356,Great support and features.,positive
+CUST0357,Unhelpful staff.,negative
+CUST0358,Just fine.,neutral
+CUST0359,Very slow and frustrating.,negative
+CUST0360,Quick response and friendly staff.,positive
+CUST0361,Very slow and frustrating.,negative
+CUST0362,Terrible experience.,negative
+CUST0363,Terrible experience.,negative
+CUST0364,Just fine.,neutral
+CUST0365,Everything worked smoothly.,positive
+CUST0366,Just fine.,neutral
+CUST0367,Just fine.,neutral
+CUST0368,Very satisfied with the service.,positive
+CUST0369,Very satisfied with the service.,positive
+CUST0370,Quick response and friendly staff.,positive
+CUST0371,Quick response and friendly staff.,positive
+CUST0372,Great support and features.,positive
+CUST0373,Terrible experience.,negative
+CUST0374,Very satisfied with the service.,positive
+CUST0375,Great support and features.,positive
+CUST0376,It was okay.,neutral
+CUST0377,Everything worked smoothly.,positive
+CUST0378,Neither good nor bad.,neutral
+CUST0379,Loved the experience!,positive
+CUST0380,Everything worked smoothly.,positive
+CUST0381,Terrible experience.,negative
+CUST0382,Would not recommend at all.,negative
+CUST0383,Neither good nor bad.,neutral
+CUST0384,Average service.,neutral
+CUST0385,Just fine.,neutral
+CUST0386,Loved the experience!,positive
+CUST0387,Loved the experience!,positive
+CUST0388,Nothing special.,neutral
+CUST0389,Neither good nor bad.,neutral
+CUST0390,It was okay.,neutral
+CUST0391,Would not recommend at all.,negative
+CUST0392,Loved the experience!,positive
+CUST0393,Average service.,neutral
+CUST0394,Very satisfied with the service.,positive
+CUST0395,It was okay.,neutral
+CUST0396,Neither good nor bad.,neutral
+CUST0397,Very slow and frustrating.,negative
+CUST0398,It was okay.,neutral
+CUST0399,Nothing special.,neutral
+CUST0400,Very satisfied with the service.,positive
+CUST0401,It was okay.,neutral
+CUST0402,Very slow and frustrating.,negative
+CUST0403,Nothing special.,neutral
+CUST0404,Great support and features.,positive
+CUST0405,Average service.,neutral
+CUST0406,Everything worked smoothly.,positive
+CUST0407,Great support and features.,positive
+CUST0408,Nothing special.,neutral
+CUST0409,Loved the experience!,positive
+CUST0410,Everything worked smoothly.,positive
+CUST0411,Nothing special.,neutral
+CUST0412,Just fine.,neutral
+CUST0413,Unhelpful staff.,negative
+CUST0414,Unhelpful staff.,negative
+CUST0415,Terrible experience.,negative
+CUST0416,Very satisfied with the service.,positive
+CUST0417,Quick response and friendly staff.,positive
+CUST0418,Terrible experience.,negative
+CUST0419,It was okay.,neutral
+CUST0420,Neither good nor bad.,neutral
+CUST0421,Nothing special.,neutral
+CUST0422,Great support and features.,positive
+CUST0423,System crashes often.,negative
+CUST0424,Great support and features.,positive
+CUST0425,Would not recommend at all.,negative
+CUST0426,Terrible experience.,negative
+CUST0427,It was okay.,neutral
+CUST0428,Very satisfied with the service.,positive
+CUST0429,Loved the experience!,positive
+CUST0430,Loved the experience!,positive
+CUST0431,Just fine.,neutral
+CUST0432,System crashes often.,negative
+CUST0433,Quick response and friendly staff.,positive
+CUST0434,Loved the experience!,positive
+CUST0435,It was okay.,neutral
+CUST0436,Quick response and friendly staff.,positive
+CUST0437,Nothing special.,neutral
+CUST0438,Nothing special.,neutral
+CUST0439,Everything worked smoothly.,positive
+CUST0440,Quick response and friendly staff.,positive
+CUST0441,It was okay.,neutral
+CUST0442,Quick response and friendly staff.,positive
+CUST0443,Quick response and friendly staff.,positive
+CUST0444,Nothing special.,neutral
+CUST0445,Average service.,neutral
+CUST0446,It was okay.,neutral
+CUST0447,Nothing special.,neutral
+CUST0448,Great support and features.,positive
+CUST0449,Great support and features.,positive
+CUST0450,Just fine.,neutral
+CUST0451,Terrible experience.,negative
+CUST0452,Very slow and frustrating.,negative
+CUST0453,Nothing special.,neutral
+CUST0454,Very satisfied with the service.,positive
+CUST0455,Terrible experience.,negative
+CUST0456,Quick response and friendly staff.,positive
+CUST0457,Unhelpful staff.,negative
+CUST0458,Great support and features.,positive
+CUST0459,Great support and features.,positive
+CUST0460,Everything worked smoothly.,positive
+CUST0461,Very slow and frustrating.,negative
+CUST0462,Just fine.,neutral
+CUST0463,Terrible experience.,negative
+CUST0464,Just fine.,neutral
+CUST0465,Great support and features.,positive
+CUST0466,Quick response and friendly staff.,positive
+CUST0467,It was okay.,neutral
+CUST0468,Loved the experience!,positive
+CUST0469,Nothing special.,neutral
+CUST0470,Everything worked smoothly.,positive
+CUST0471,Neither good nor bad.,neutral
+CUST0472,Loved the experience!,positive
+CUST0473,Neither good nor bad.,neutral
+CUST0474,Unhelpful staff.,negative
+CUST0475,Nothing special.,neutral
+CUST0476,Loved the experience!,positive
+CUST0477,System crashes often.,negative
+CUST0478,Average service.,neutral
+CUST0479,Unhelpful staff.,negative
+CUST0480,Unhelpful staff.,negative
+CUST0481,System crashes often.,negative
+CUST0482,System crashes often.,negative
+CUST0483,Would not recommend at all.,negative
+CUST0484,Would not recommend at all.,negative
+CUST0485,Average service.,neutral
+CUST0486,Great support and features.,positive
+CUST0487,Loved the experience!,positive
+CUST0488,Neither good nor bad.,neutral
+CUST0489,Nothing special.,neutral
+CUST0490,Would not recommend at all.,negative
+CUST0491,Unhelpful staff.,negative
+CUST0492,Very satisfied with the service.,positive
+CUST0493,Quick response and friendly staff.,positive
+CUST0494,System crashes often.,negative
+CUST0495,Great support and features.,positive
+CUST0496,Very slow and frustrating.,negative
+CUST0497,Loved the experience!,positive
+CUST0498,Neither good nor bad.,neutral
+CUST0499,Just fine.,neutral
